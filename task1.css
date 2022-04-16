@@ -1,0 +1,75 @@
+*
+{
+    margin:0;
+    margin:0;
+    text-transform: uppercase; 
+}
+.container
+{
+    width: 70%;
+    background-color:rgb(69 199 199);
+    margin: auto;
+    height: 600px;
+}
+.contact
+{
+    text-align:center;
+    margin: 5%;
+    color: white;
+    padding: 30px;
+}
+.left,.right
+{
+    float: left;
+    /*display: inline-block; */
+    width:45%;   
+}
+input,textarea
+{
+    margin:auto;
+     margin:10px 10% ;
+    width:80%;
+    padding:15px;
+   border-style:none;
+    border-radius:5px;
+      background-color:#fff;
+}
+textarea
+{
+    height: 100px;
+}
+.s
+{
+    width:38%;
+    
+    margin:0;
+}
+#phone
+{
+    margin-left:12px;
+}
+#company
+{
+    margin-left:10%;
+}
+#send
+{
+    width:40%;
+    margin-left:50%;
+    padding:10px 15px;
+    background-color:yellow;
+    border: none;
+    border-radius: 10px;;
+}
+.right
+{
+    float: right;
+   /* display: inline-block; */
+    margin: 20px;
+      color: white;
+
+}
+span
+{
+    color: yellow;;
+}
